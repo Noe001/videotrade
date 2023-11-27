@@ -1,0 +1,18 @@
+Started GET "/" for ::1 at 2023-11-27 10:56:10 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/railties-7.0.8/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/railties-7.0.8/lib/rails/templates/rails/welcome/index.html.erb (Duration: 13.4ms | Allocations: 694)
+Completed 200 OK in 204ms (Views: 35.7ms | ActiveRecord: 0.0ms | Allocations: 8209)
+
+
+Started GET "/" for ::1 at 2023-11-27 10:59:41 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/railties-7.0.8/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/railties-7.0.8/lib/rails/templates/rails/welcome/index.html.erb (Duration: 5.4ms | Allocations: 522)
+Completed 200 OK in 73ms (Views: 20.8ms | ActiveRecord: 0.0ms | Allocations: 4752)
+
+
+Started GET "/app/views/layouts/application.html.erb" for ::1 at 2023-11-27 11:08:06 +0900
+  
+ActionController::RoutingError (No route matches [GET] "/app/views/layouts/application.html.erb"):
+  
